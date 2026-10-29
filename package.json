@@ -1,0 +1,16 @@
+{
+  "name": "aps-delivery-grupox",
+  "version": "1.0.0",
+  "main": "delivery.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
